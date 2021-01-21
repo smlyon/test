@@ -1,9 +1,12 @@
 #include <Arduino.h>
 
-void setup() {
+void setup()
+{
   // put your setup code here, to run once:
+  pinMode(13, OUTPUT);
 }
 
-void loop() {
+void loop()
+{
   // put your main code here, to run repeatedly:
 }
